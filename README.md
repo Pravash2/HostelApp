@@ -1,2 +1,0 @@
-# HostelApp
-Created with CodeSandbox
